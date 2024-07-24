@@ -1,3 +1,2 @@
 # Test-Repository
-This is a test
-Ok what goes here uhh... idk
+Hello. My name is Andersen and I'm an incoming freshman at Stony Brook University as a computer science major. I began to learn Python when I was 11, and since then, I have made my own programs and games. GitHub is a very important tool for my major and I want to be able to effectively transfer code from my PC to my GitHub account. Maybe you will be able to play my games soon, and maybe they will give a good impression to my future interviewer.
